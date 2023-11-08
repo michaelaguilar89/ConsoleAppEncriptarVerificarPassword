@@ -1,0 +1,14 @@
+C:\Users\mchla\OneDrive\Documentos\Proyectos\AppAuthorization\ConsoleAppEncriptation\ConsoleAppEncriptation\obj\Debug\net6.0\ConsoleAppEncriptation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mchla\OneDrive\Documentos\Proyectos\AppAuthorization\ConsoleAppEncriptation\ConsoleAppEncriptation\obj\Debug\net6.0\ConsoleAppEncriptation.AssemblyInfoInputs.cache
+C:\Users\mchla\OneDrive\Documentos\Proyectos\AppAuthorization\ConsoleAppEncriptation\ConsoleAppEncriptation\obj\Debug\net6.0\ConsoleAppEncriptation.AssemblyInfo.cs
+C:\Users\mchla\OneDrive\Documentos\Proyectos\AppAuthorization\ConsoleAppEncriptation\ConsoleAppEncriptation\obj\Debug\net6.0\ConsoleAppEncriptation.csproj.CoreCompileInputs.cache
+C:\Users\mchla\OneDrive\Documentos\Proyectos\AppAuthorization\ConsoleAppEncriptation\ConsoleAppEncriptation\bin\Debug\net6.0\ConsoleAppEncriptation.exe
+C:\Users\mchla\OneDrive\Documentos\Proyectos\AppAuthorization\ConsoleAppEncriptation\ConsoleAppEncriptation\bin\Debug\net6.0\ConsoleAppEncriptation.deps.json
+C:\Users\mchla\OneDrive\Documentos\Proyectos\AppAuthorization\ConsoleAppEncriptation\ConsoleAppEncriptation\bin\Debug\net6.0\ConsoleAppEncriptation.runtimeconfig.json
+C:\Users\mchla\OneDrive\Documentos\Proyectos\AppAuthorization\ConsoleAppEncriptation\ConsoleAppEncriptation\bin\Debug\net6.0\ConsoleAppEncriptation.dll
+C:\Users\mchla\OneDrive\Documentos\Proyectos\AppAuthorization\ConsoleAppEncriptation\ConsoleAppEncriptation\bin\Debug\net6.0\ConsoleAppEncriptation.pdb
+C:\Users\mchla\OneDrive\Documentos\Proyectos\AppAuthorization\ConsoleAppEncriptation\ConsoleAppEncriptation\obj\Debug\net6.0\ConsoleAppEncriptation.dll
+C:\Users\mchla\OneDrive\Documentos\Proyectos\AppAuthorization\ConsoleAppEncriptation\ConsoleAppEncriptation\obj\Debug\net6.0\refint\ConsoleAppEncriptation.dll
+C:\Users\mchla\OneDrive\Documentos\Proyectos\AppAuthorization\ConsoleAppEncriptation\ConsoleAppEncriptation\obj\Debug\net6.0\ConsoleAppEncriptation.pdb
+C:\Users\mchla\OneDrive\Documentos\Proyectos\AppAuthorization\ConsoleAppEncriptation\ConsoleAppEncriptation\obj\Debug\net6.0\ConsoleAppEncriptation.genruntimeconfig.cache
+C:\Users\mchla\OneDrive\Documentos\Proyectos\AppAuthorization\ConsoleAppEncriptation\ConsoleAppEncriptation\obj\Debug\net6.0\ref\ConsoleAppEncriptation.dll
